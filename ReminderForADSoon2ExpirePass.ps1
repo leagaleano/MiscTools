@@ -1,6 +1,6 @@
 #Author: Leandro Galeano - leandro.galeano@live.com - https://www.linkedin.com/in/leandro-galeano/
 #User running the script must have permissions to read AD. Other users are defined below
-#Mail property must be populated into AD, as it's where the account's e-amail address is taken for sending the alert
+#Mail property must be populated into AD, as it's where the account's e-mail address is taken for sending the alert
 
 #Common Section. DO NOT MODIFY
 Import-Module ActiveDirectory
